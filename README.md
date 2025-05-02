@@ -1,5 +1,6 @@
 # Dibyani-Sahu
-👩‍💻 About Me
+👩‍💻 About Me:
+
 Hi, I’m Dibyani Sahu, a data analyst with a background in Chemical Engineering and a passion for turning raw data into meaningful insights. I specialize in using Python, SQL, Tableau, and Excel to create clean, impactful dashboards and data stories that drive smarter decisions.
 
 I began my career in the manufacturing and tech support industry, and over time transitioned into data analytics, where I’ve worked on real-world projects involving BI dashboards, ad-hoc reporting, performance tracking, and user behavior analysis. I enjoy solving business problems with data—whether it’s optimizing a product funnel, tracking sales KPIs, or analyzing digital engagement metrics.
