@@ -17,4 +17,4 @@ Others: Git, Google Analytics, Jira
 
 Let’s Connect
 Open to collaborations, data-driven roles, and connecting with others passionate about analytics and BI!
-[Connect with me on Linkedin](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dibyanisahu)
+[Connect with me on Linkedin]([url](https://www.linkedin.com/in/dibyanisahu/))
